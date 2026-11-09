@@ -1,3 +1,9 @@
+# Lab 01: Introduction to Arrays
+
+This directory contains four C++ programs implementing Arrays and their applications.
+
+---
+
 # Program 1: Basic Array Operations
 
 ## a. Problem Statement
